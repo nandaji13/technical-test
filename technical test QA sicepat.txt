@@ -1,0 +1,16 @@
+1. Query
+
+a. SELECT emp_name, emp_status
+FROM employee_table;
+
+b. SELECT emp_name, emp_income
+FROM employee_table
+WHERE emp_status = 'R';
+
+c.SELECT emp_code, nama, status, income
+FROM employee_table
+ORDER BY emp_income DESC;
+
+2. DONE nanti jangan lupa di taro di Repository 
+
+3. On Going
